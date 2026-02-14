@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/K-Tax/static/css/main.1181e068.css",
+    "main.js": "/K-Tax/static/js/main.713d1ca0.js",
+    "index.html": "/K-Tax/index.html",
+    "main.1181e068.css.map": "/K-Tax/static/css/main.1181e068.css.map",
+    "main.713d1ca0.js.map": "/K-Tax/static/js/main.713d1ca0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1181e068.css",
+    "static/js/main.713d1ca0.js"
+  ]
+}
